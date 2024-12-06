@@ -9,8 +9,6 @@ Run the script using the following command:
 ```
 python npp --<arguments>
 ```
-markdown
-Copy code
 
 ## Command-Line Arguments
 
