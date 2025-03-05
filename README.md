@@ -7,7 +7,7 @@ This repository contains the implementation of Neural Point Processes (NPP) for 
 Run the script using the following command:
 
 ```
-python npp --<arguments>
+python NPP.py --<arguments>
 ```
 
 ## Command-Line Arguments
@@ -47,5 +47,5 @@ Below is a detailed list of the arguments you can pass to the script:
 
 ## Example Usage
 ```
-python npp --dataset PinMNIST --feature AE --mode mesh --d 10 --lr 0.001 --epochs 1000
+python NPP.py --dataset PinMNIST --feature AE --mode mesh --d 10 --lr 0.001 --epochs 1000
 ```
